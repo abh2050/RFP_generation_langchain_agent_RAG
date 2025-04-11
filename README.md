@@ -117,6 +117,12 @@ A Streamlit-based web application for generating professional Request for Inform
      ]
      ```
    - Call the function programmatically or extend the Streamlit interface to support file uploads.
+  
+## Example Application
+![](https://github.com/abh2050/RFP_generation_langchain_agent_RAG/blob/main/examples/pic1.png)
+![](https://github.com/abh2050/RFP_generation_langchain_agent_RAG/blob/main/examples/pic2.png)
+![](https://github.com/abh2050/RFP_generation_langchain_agent_RAG/blob/main/examples/pic3.png)
+![](https://github.com/abh2050/RFP_generation_langchain_agent_RAG/blob/main/examples/pic4.png)
 
 ## Project Structure
 
