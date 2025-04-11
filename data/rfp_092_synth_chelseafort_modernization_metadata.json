@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Chelseafort Modernization",
+  "company": "Flores-Henderson",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Modernization",
+  "location": "Chelseafort, VT",
+  "location_type": "Refinery Zone",
+  "project_value": 6625861,
+  "disciplines": [
+    "Process Engineering",
+    "Mechanical Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

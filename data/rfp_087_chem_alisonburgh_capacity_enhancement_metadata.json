@@ -1,0 +1,19 @@
+{
+  "project_name": "Chem Alisonburgh Capacity Enhancement",
+  "company": "Garcia Inc",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Capacity Enhancement",
+  "location": "Alisonburgh, NC",
+  "location_type": "Refinery Zone",
+  "project_value": 19866782,
+  "disciplines": [
+    "Environmental Engineering",
+    "Piping & Pipeline",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

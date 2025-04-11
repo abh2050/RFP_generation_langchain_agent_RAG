@@ -1,0 +1,18 @@
+{
+  "project_name": "Petro Claireshire Safety Compliance",
+  "company": "Ross-Hancock",
+  "industry": "Oil & Gas",
+  "complexity": 3,
+  "project_type": "Safety Compliance",
+  "location": "Claireshire, FM",
+  "location_type": "Industrial Park",
+  "project_value": 18108149,
+  "disciplines": [
+    "Structural Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,19 @@
+{
+  "project_name": "Chem Reynoldshaven Modernization",
+  "company": "Hatfield, Thompson and Goodman",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Modernization",
+  "location": "Reynoldshaven, RI",
+  "location_type": "Factory Complex",
+  "project_value": 9665959,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "ISO 14001"
+  ],
+  "creation_date": "2025-04-09"
+}

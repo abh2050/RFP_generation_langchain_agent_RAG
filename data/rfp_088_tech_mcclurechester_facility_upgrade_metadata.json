@@ -1,0 +1,19 @@
+{
+  "project_name": "Tech Mcclurechester Facility Upgrade",
+  "company": "Scott and Sons",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Facility Upgrade",
+  "location": "Mcclurechester, MN",
+  "location_type": "Refinery Zone",
+  "project_value": 1550306,
+  "disciplines": [
+    "Process Engineering",
+    "Mechanical Engineering",
+    "Industrial Automation"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

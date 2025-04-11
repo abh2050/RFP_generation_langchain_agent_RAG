@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Timothy Capacity Enhancement",
+  "company": "Gray LLC",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Capacity Enhancement",
+  "location": "South Timothy, AZ",
+  "location_type": "Refinery Zone",
+  "project_value": 4823287,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ISO 14001",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

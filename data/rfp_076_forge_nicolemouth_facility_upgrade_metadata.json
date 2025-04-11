@@ -1,0 +1,19 @@
+{
+  "project_name": "Forge Nicolemouth Facility Upgrade",
+  "company": "Luna LLC",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Facility Upgrade",
+  "location": "Nicolemouth, PR",
+  "location_type": "Refinery Zone",
+  "project_value": 8430056,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Process Engineering",
+    "Industrial Automation"
+  ],
+  "regulations": [
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

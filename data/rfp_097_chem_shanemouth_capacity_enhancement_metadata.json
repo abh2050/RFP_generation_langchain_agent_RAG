@@ -1,0 +1,19 @@
+{
+  "project_name": "Chem Shanemouth Capacity Enhancement",
+  "company": "Johnson-Richards",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Capacity Enhancement",
+  "location": "East Shanemouth, AR",
+  "location_type": "Industrial Park",
+  "project_value": 1673404,
+  "disciplines": [
+    "Environmental Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

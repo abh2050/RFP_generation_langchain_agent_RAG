@@ -1,0 +1,20 @@
+{
+  "project_name": "Synth Karenmouth Modernization",
+  "company": "Cain Inc",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Modernization",
+  "location": "Karenmouth, FL",
+  "location_type": "Refinery Zone",
+  "project_value": 2439551,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Mechanical Engineering",
+    "Environmental Engineering"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

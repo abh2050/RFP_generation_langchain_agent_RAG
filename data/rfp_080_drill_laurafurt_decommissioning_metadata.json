@@ -1,0 +1,18 @@
+{
+  "project_name": "Drill Laurafurt Decommissioning",
+  "company": "Adams, Mason and Rodriguez",
+  "industry": "Oil & Gas",
+  "complexity": 2,
+  "project_type": "Decommissioning",
+  "location": "Laurafurt, NH",
+  "location_type": "Refinery Zone",
+  "project_value": 1400003,
+  "disciplines": [
+    "Structural Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

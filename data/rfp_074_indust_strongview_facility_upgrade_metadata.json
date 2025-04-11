@@ -1,0 +1,19 @@
+{
+  "project_name": "Indust Strongview Facility Upgrade",
+  "company": "Williams-Bryant",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Facility Upgrade",
+  "location": "Strongview, KS",
+  "location_type": "Refinery Zone",
+  "project_value": 7751385,
+  "disciplines": [
+    "Industrial Automation",
+    "Mechanical Engineering",
+    "Electrical Engineering"
+  ],
+  "regulations": [
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

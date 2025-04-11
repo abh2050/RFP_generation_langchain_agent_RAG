@@ -1,0 +1,19 @@
+{
+  "project_name": "Petro Timothyhaven Decommissioning",
+  "company": "Reynolds and Sons",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Decommissioning",
+  "location": "New Timothyhaven, PA",
+  "location_type": "Industrial Park",
+  "project_value": 4022492,
+  "disciplines": [
+    "Process Engineering",
+    "Piping & Pipeline",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

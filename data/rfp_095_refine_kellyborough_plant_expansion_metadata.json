@@ -1,0 +1,19 @@
+{
+  "project_name": "Refine Kellyborough Plant Expansion",
+  "company": "Wilson PLC",
+  "industry": "Oil & Gas",
+  "complexity": 3,
+  "project_type": "Plant Expansion",
+  "location": "Kellyborough, PA",
+  "location_type": "Industrial Park",
+  "project_value": 14242217,
+  "disciplines": [
+    "Instrumentation & Controls",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "API Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

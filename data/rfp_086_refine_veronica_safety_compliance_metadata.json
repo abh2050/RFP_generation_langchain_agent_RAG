@@ -1,0 +1,20 @@
+{
+  "project_name": "Refine Veronica Safety Compliance",
+  "company": "Thompson-Hendrix",
+  "industry": "Oil & Gas",
+  "complexity": 2,
+  "project_type": "Safety Compliance",
+  "location": "Port Veronica, FM",
+  "location_type": "Industrial Park",
+  "project_value": 1815381,
+  "disciplines": [
+    "Structural Engineering",
+    "Instrumentation & Controls",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

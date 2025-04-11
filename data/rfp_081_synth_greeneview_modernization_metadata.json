@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Greeneview Modernization",
+  "company": "Wagner-Calhoun",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Modernization",
+  "location": "Greeneview, AL",
+  "location_type": "Factory Complex",
+  "project_value": 1071025,
+  "disciplines": [
+    "Environmental Engineering",
+    "Mechanical Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

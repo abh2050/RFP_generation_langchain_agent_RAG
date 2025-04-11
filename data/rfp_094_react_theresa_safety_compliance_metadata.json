@@ -1,0 +1,19 @@
+{
+  "project_name": "React Theresa Safety Compliance",
+  "company": "Cain Group",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Safety Compliance",
+  "location": "Port Theresa, NV",
+  "location_type": "Industrial Park",
+  "project_value": 17739898,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes",
+    "ISO 14001"
+  ],
+  "creation_date": "2025-04-09"
+}

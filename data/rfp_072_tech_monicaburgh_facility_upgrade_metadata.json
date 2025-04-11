@@ -1,0 +1,20 @@
+{
+  "project_name": "Tech Monicaburgh Facility Upgrade",
+  "company": "House-Stewart",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Facility Upgrade",
+  "location": "Monicaburgh, FM",
+  "location_type": "Refinery Zone",
+  "project_value": 18526552,
+  "disciplines": [
+    "Electrical Engineering",
+    "Mechanical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,18 @@
+{
+  "project_name": "Tech Kellyton Emergency Response",
+  "company": "Green, Copeland and Mccarty",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Emergency Response",
+  "location": "Kellyton, MA",
+  "location_type": "Refinery Zone",
+  "project_value": 4611123,
+  "disciplines": [
+    "Electrical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

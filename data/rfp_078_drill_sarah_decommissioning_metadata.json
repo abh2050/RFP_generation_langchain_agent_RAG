@@ -1,0 +1,20 @@
+{
+  "project_name": "Drill Sarah Decommissioning",
+  "company": "Moore Inc",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Decommissioning",
+  "location": "New Sarah, HI",
+  "location_type": "Refinery Zone",
+  "project_value": 8385680,
+  "disciplines": [
+    "Instrumentation & Controls",
+    "Piping & Pipeline",
+    "Structural Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

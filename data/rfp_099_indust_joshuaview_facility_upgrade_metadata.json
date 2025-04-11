@@ -1,0 +1,19 @@
+{
+  "project_name": "Indust Joshuaview Facility Upgrade",
+  "company": "Fischer-Watkins",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Facility Upgrade",
+  "location": "Joshuaview, RI",
+  "location_type": "Factory Complex",
+  "project_value": 5615849,
+  "disciplines": [
+    "Process Engineering",
+    "Industrial Automation",
+    "Electrical Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

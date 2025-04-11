@@ -1,0 +1,18 @@
+{
+  "project_name": "Forge Manuelbury Facility Upgrade",
+  "company": "Harvey, Lane and Bradford",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Facility Upgrade",
+  "location": "Lake Manuelbury, VT",
+  "location_type": "Refinery Zone",
+  "project_value": 2197437,
+  "disciplines": [
+    "Electrical Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

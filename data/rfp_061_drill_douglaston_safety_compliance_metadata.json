@@ -1,0 +1,20 @@
+{
+  "project_name": "Drill Douglaston Safety Compliance",
+  "company": "Cole, Gomez and Morrison",
+  "industry": "Oil & Gas",
+  "complexity": 3,
+  "project_type": "Safety Compliance",
+  "location": "Douglaston, NV",
+  "location_type": "Factory Complex",
+  "project_value": 19622658,
+  "disciplines": [
+    "Process Engineering",
+    "Instrumentation & Controls",
+    "Structural Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "API Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

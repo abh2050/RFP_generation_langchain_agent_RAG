@@ -1,0 +1,20 @@
+{
+  "project_name": "Forge Nicholasville Automation Retrofit",
+  "company": "Liu PLC",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Automation Retrofit",
+  "location": "South Nicholasville, NJ",
+  "location_type": "Factory Complex",
+  "project_value": 14445556,
+  "disciplines": [
+    "Electrical Engineering",
+    "Mechanical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,19 @@
+{
+  "project_name": "Drill Schneiderville Safety Compliance",
+  "company": "Hodges, Pratt and Wilson",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Safety Compliance",
+  "location": "Schneiderville, CT",
+  "location_type": "Industrial Park",
+  "project_value": 3882406,
+  "disciplines": [
+    "Structural Engineering",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "API Standards",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

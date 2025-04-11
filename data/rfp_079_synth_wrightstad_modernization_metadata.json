@@ -1,0 +1,20 @@
+{
+  "project_name": "Synth Wrightstad Modernization",
+  "company": "Mahoney-Wilson",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Modernization",
+  "location": "Wrightstad, DE",
+  "location_type": "Factory Complex",
+  "project_value": 8297684,
+  "disciplines": [
+    "Environmental Engineering",
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes",
+    "ISO 14001"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Kimfurt Capacity Enhancement",
+  "company": "Thomas, Cross and Jackson",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Capacity Enhancement",
+  "location": "Kimfurt, MO",
+  "location_type": "Refinery Zone",
+  "project_value": 1643918,
+  "disciplines": [
+    "Environmental Engineering",
+    "Mechanical Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

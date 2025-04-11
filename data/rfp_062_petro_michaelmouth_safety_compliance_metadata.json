@@ -1,0 +1,18 @@
+{
+  "project_name": "Petro Michaelmouth Safety Compliance",
+  "company": "Wright-Arellano",
+  "industry": "Oil & Gas",
+  "complexity": 2,
+  "project_type": "Safety Compliance",
+  "location": "North Michaelmouth, FM",
+  "location_type": "Refinery Zone",
+  "project_value": 9158846,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Structural Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

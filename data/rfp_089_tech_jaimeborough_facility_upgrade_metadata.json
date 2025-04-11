@@ -1,0 +1,19 @@
+{
+  "project_name": "Tech Jaimeborough Facility Upgrade",
+  "company": "Byrd-Ferguson",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Facility Upgrade",
+  "location": "Jaimeborough, CT",
+  "location_type": "Refinery Zone",
+  "project_value": 8405989,
+  "disciplines": [
+    "Industrial Automation",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ISO 9001",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

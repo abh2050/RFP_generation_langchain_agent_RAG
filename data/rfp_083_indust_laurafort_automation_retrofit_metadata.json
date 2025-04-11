@@ -1,0 +1,18 @@
+{
+  "project_name": "Indust Laurafort Automation Retrofit",
+  "company": "Sanchez Ltd",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Automation Retrofit",
+  "location": "Lake Laurafort, WA",
+  "location_type": "Refinery Zone",
+  "project_value": 623601,
+  "disciplines": [
+    "Industrial Automation",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

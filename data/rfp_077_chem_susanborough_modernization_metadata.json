@@ -1,0 +1,19 @@
+{
+  "project_name": "Chem Susanborough Modernization",
+  "company": "Duran, Cunningham and Ramirez",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Modernization",
+  "location": "Susanborough, CA",
+  "location_type": "Refinery Zone",
+  "project_value": 8819075,
+  "disciplines": [
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ISO 14001",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

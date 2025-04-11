@@ -1,0 +1,18 @@
+{
+  "project_name": "Indust Millerville Emergency Response",
+  "company": "Crawford-Bennett",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Emergency Response",
+  "location": "Millerville, FL",
+  "location_type": "Factory Complex",
+  "project_value": 4475676,
+  "disciplines": [
+    "Industrial Automation",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

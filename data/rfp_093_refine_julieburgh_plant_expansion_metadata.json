@@ -1,0 +1,18 @@
+{
+  "project_name": "Refine Julieburgh Plant Expansion",
+  "company": "Pacheco, Crane and Lyons",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Plant Expansion",
+  "location": "Julieburgh, MO",
+  "location_type": "Refinery Zone",
+  "project_value": 878246,
+  "disciplines": [
+    "Process Engineering",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

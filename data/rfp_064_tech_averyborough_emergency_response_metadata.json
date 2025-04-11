@@ -1,0 +1,20 @@
+{
+  "project_name": "Tech Averyborough Emergency Response",
+  "company": "Hernandez-Weaver",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Emergency Response",
+  "location": "Averyborough, NH",
+  "location_type": "Refinery Zone",
+  "project_value": 4362282,
+  "disciplines": [
+    "Industrial Automation",
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

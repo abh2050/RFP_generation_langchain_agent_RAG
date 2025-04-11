@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Elizabethshire Capacity Enhancement",
+  "company": "Hansen-Mathis",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Capacity Enhancement",
+  "location": "Elizabethshire, MH",
+  "location_type": "Refinery Zone",
+  "project_value": 8181330,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Mechanical Engineering",
+    "Environmental Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

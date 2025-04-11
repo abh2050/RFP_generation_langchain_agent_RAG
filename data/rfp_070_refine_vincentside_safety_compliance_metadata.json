@@ -1,0 +1,19 @@
+{
+  "project_name": "Refine Vincentside Safety Compliance",
+  "company": "Yates PLC",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Safety Compliance",
+  "location": "Vincentside, AZ",
+  "location_type": "Refinery Zone",
+  "project_value": 8757561,
+  "disciplines": [
+    "Process Engineering",
+    "Structural Engineering"
+  ],
+  "regulations": [
+    "API Standards",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

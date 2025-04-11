@@ -1,0 +1,20 @@
+{
+  "project_name": "Drill Michaelstad Decommissioning",
+  "company": "Glenn-Johnson",
+  "industry": "Oil & Gas",
+  "complexity": 2,
+  "project_type": "Decommissioning",
+  "location": "Michaelstad, LA",
+  "location_type": "Industrial Park",
+  "project_value": 7930652,
+  "disciplines": [
+    "Structural Engineering",
+    "Process Engineering",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "API Standards"
+  ],
+  "creation_date": "2025-04-09"
+}
