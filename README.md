@@ -1,3 +1,4 @@
+![](https://www.cloudways.com/blog/wp-content/uploads/Request-for-Proposal-OG.jpg)
 # RFP/RFI Document Generator
 
 A Streamlit-based web application for generating professional Request for Information (RFI) and Request for Proposal (RFP) documents using AI-powered semantic search and document generation. The application leverages Weaviate for vector storage, LangChain for orchestration, and Google's Gemini API for embeddings and text generation.
