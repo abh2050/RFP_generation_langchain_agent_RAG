@@ -22,7 +22,7 @@ A Streamlit-based web application for generating professional Request for Inform
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/rfp-rfi-generator.git
+   git clone https://github.com/abh2050/RFP_generation_langchain_agent_RAG.git
    cd rfp-rfi-generator
    ```
 
