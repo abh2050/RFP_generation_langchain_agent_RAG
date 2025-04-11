@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Manuel Modernization",
+  "company": "Gonzalez, Bell and Hess",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Modernization",
+  "location": "East Manuel, TX",
+  "location_type": "Factory Complex",
+  "project_value": 18632986,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Piping & Pipeline",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ISO 14001"
+  ],
+  "creation_date": "2025-04-09"
+}

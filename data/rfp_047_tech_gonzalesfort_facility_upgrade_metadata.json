@@ -1,0 +1,19 @@
+{
+  "project_name": "Tech Gonzalesfort Facility Upgrade",
+  "company": "Lee-Hamilton",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Facility Upgrade",
+  "location": "Gonzalesfort, LA",
+  "location_type": "Factory Complex",
+  "project_value": 12118803,
+  "disciplines": [
+    "Industrial Automation",
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

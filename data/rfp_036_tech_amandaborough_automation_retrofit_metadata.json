@@ -1,0 +1,19 @@
+{
+  "project_name": "Tech Amandaborough Automation Retrofit",
+  "company": "Schwartz-King",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Automation Retrofit",
+  "location": "Amandaborough, MA",
+  "location_type": "Industrial Park",
+  "project_value": 12163164,
+  "disciplines": [
+    "Industrial Automation",
+    "Electrical Engineering"
+  ],
+  "regulations": [
+    "ISO 9001",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

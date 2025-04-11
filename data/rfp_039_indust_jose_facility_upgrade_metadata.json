@@ -1,0 +1,20 @@
+{
+  "project_name": "Indust Jose Facility Upgrade",
+  "company": "Mills Group",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Facility Upgrade",
+  "location": "Lake Jose, NV",
+  "location_type": "Refinery Zone",
+  "project_value": 2212274,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Electrical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ASME Standards",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

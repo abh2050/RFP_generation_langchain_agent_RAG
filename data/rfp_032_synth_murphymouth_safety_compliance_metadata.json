@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Murphymouth Safety Compliance",
+  "company": "Davis-Mitchell",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Safety Compliance",
+  "location": "Murphymouth, MN",
+  "location_type": "Industrial Park",
+  "project_value": 5683836,
+  "disciplines": [
+    "Environmental Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ISO 14001",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

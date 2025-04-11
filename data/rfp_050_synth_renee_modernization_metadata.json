@@ -1,0 +1,20 @@
+{
+  "project_name": "Synth Renee Modernization",
+  "company": "Moody-Price",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Modernization",
+  "location": "Lake Renee, NE",
+  "location_type": "Factory Complex",
+  "project_value": 4025477,
+  "disciplines": [
+    "Environmental Engineering",
+    "Mechanical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes",
+    "ISO 14001"
+  ],
+  "creation_date": "2025-04-09"
+}

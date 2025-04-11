@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Josephport Capacity Enhancement",
+  "company": "Leon-Johnson",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Capacity Enhancement",
+  "location": "Josephport, NM",
+  "location_type": "Factory Complex",
+  "project_value": 17312741,
+  "disciplines": [
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

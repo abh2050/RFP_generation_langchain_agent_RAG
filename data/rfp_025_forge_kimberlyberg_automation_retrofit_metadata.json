@@ -1,0 +1,19 @@
+{
+  "project_name": "Forge Kimberlyberg Automation Retrofit",
+  "company": "Gonzalez, Kemp and Shepherd",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Automation Retrofit",
+  "location": "Kimberlyberg, NE",
+  "location_type": "Factory Complex",
+  "project_value": 1454327,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ASME Standards",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

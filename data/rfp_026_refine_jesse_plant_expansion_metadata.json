@@ -1,0 +1,19 @@
+{
+  "project_name": "Refine Jesse Plant Expansion",
+  "company": "Braun PLC",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Plant Expansion",
+  "location": "East Jesse, NE",
+  "location_type": "Industrial Park",
+  "project_value": 5915300,
+  "disciplines": [
+    "Process Engineering",
+    "Instrumentation & Controls",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

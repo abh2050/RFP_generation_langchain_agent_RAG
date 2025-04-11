@@ -1,0 +1,19 @@
+{
+  "project_name": "Chem Allenton Capacity Enhancement",
+  "company": "Juarez LLC",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Capacity Enhancement",
+  "location": "Allenton, MT",
+  "location_type": "Industrial Park",
+  "project_value": 2473835,
+  "disciplines": [
+    "Environmental Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ISO 14001",
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

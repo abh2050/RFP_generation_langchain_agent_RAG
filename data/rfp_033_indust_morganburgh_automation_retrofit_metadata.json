@@ -1,0 +1,19 @@
+{
+  "project_name": "Indust Morganburgh Automation Retrofit",
+  "company": "Deleon, Howe and Bowen",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Automation Retrofit",
+  "location": "Morganburgh, IL",
+  "location_type": "Refinery Zone",
+  "project_value": 14540932,
+  "disciplines": [
+    "Electrical Engineering",
+    "Mechanical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

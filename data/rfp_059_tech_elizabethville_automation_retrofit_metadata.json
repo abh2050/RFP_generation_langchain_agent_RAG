@@ -1,0 +1,19 @@
+{
+  "project_name": "Tech Elizabethville Automation Retrofit",
+  "company": "Harris Ltd",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Automation Retrofit",
+  "location": "Port Elizabethville, KS",
+  "location_type": "Factory Complex",
+  "project_value": 16063011,
+  "disciplines": [
+    "Industrial Automation",
+    "Electrical Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

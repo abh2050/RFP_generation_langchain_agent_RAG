@@ -1,0 +1,20 @@
+{
+  "project_name": "Petro Danielland Decommissioning",
+  "company": "Huber, Burke and Nash",
+  "industry": "Oil & Gas",
+  "complexity": 2,
+  "project_type": "Decommissioning",
+  "location": "West Danielland, TX",
+  "location_type": "Industrial Park",
+  "project_value": 9129436,
+  "disciplines": [
+    "Structural Engineering",
+    "Process Engineering",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

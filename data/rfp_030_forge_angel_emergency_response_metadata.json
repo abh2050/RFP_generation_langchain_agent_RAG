@@ -1,0 +1,18 @@
+{
+  "project_name": "Forge Angel Emergency Response",
+  "company": "Ochoa, Long and Ramirez",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Emergency Response",
+  "location": "North Angel, SD",
+  "location_type": "Factory Complex",
+  "project_value": 5148990,
+  "disciplines": [
+    "Process Engineering",
+    "Industrial Automation"
+  ],
+  "regulations": [
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,19 @@
+{
+  "project_name": "Tech Vaughanborough Facility Upgrade",
+  "company": "Russell and Sons",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Facility Upgrade",
+  "location": "Vaughanborough, TN",
+  "location_type": "Refinery Zone",
+  "project_value": 15192050,
+  "disciplines": [
+    "Electrical Engineering",
+    "Industrial Automation",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

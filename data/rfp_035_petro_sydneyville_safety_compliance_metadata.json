@@ -1,0 +1,20 @@
+{
+  "project_name": "Petro Sydneyville Safety Compliance",
+  "company": "Anderson PLC",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Safety Compliance",
+  "location": "South Sydneyville, VI",
+  "location_type": "Refinery Zone",
+  "project_value": 8008355,
+  "disciplines": [
+    "Process Engineering",
+    "Piping & Pipeline",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

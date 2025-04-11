@@ -1,0 +1,19 @@
+{
+  "project_name": "Tech Megantown Automation Retrofit",
+  "company": "Hill-Brown",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Automation Retrofit",
+  "location": "Megantown, RI",
+  "location_type": "Refinery Zone",
+  "project_value": 9188643,
+  "disciplines": [
+    "Process Engineering",
+    "Industrial Automation"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

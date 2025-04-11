@@ -1,0 +1,19 @@
+{
+  "project_name": "Indust Sarahmouth Automation Retrofit",
+  "company": "Murphy Group",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Automation Retrofit",
+  "location": "New Sarahmouth, ME",
+  "location_type": "Refinery Zone",
+  "project_value": 9062961,
+  "disciplines": [
+    "Electrical Engineering",
+    "Industrial Automation",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,19 @@
+{
+  "project_name": "Indust Gloria Automation Retrofit",
+  "company": "Villa-Chan",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Automation Retrofit",
+  "location": "Lake Gloria, AS",
+  "location_type": "Industrial Park",
+  "project_value": 3481504,
+  "disciplines": [
+    "Electrical Engineering",
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

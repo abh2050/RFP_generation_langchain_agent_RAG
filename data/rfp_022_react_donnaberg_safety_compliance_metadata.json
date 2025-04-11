@@ -1,0 +1,19 @@
+{
+  "project_name": "React Donnaberg Safety Compliance",
+  "company": "King, Smith and Bowen",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Safety Compliance",
+  "location": "Donnaberg, WV",
+  "location_type": "Factory Complex",
+  "project_value": 9443586,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Mechanical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

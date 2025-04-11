@@ -1,0 +1,19 @@
+{
+  "project_name": "Indust Timothy Automation Retrofit",
+  "company": "Smith LLC",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Automation Retrofit",
+  "location": "West Timothy, AL",
+  "location_type": "Refinery Zone",
+  "project_value": 9835876,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Process Engineering",
+    "Industrial Automation"
+  ],
+  "regulations": [
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

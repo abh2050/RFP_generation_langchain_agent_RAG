@@ -1,0 +1,20 @@
+{
+  "project_name": "Indust Melissafort Facility Upgrade",
+  "company": "Wells, Greene and Martin",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Facility Upgrade",
+  "location": "Melissafort, MH",
+  "location_type": "Refinery Zone",
+  "project_value": 2158054,
+  "disciplines": [
+    "Electrical Engineering",
+    "Industrial Automation",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ASME Standards",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

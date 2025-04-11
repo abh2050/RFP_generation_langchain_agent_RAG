@@ -1,0 +1,19 @@
+{
+  "project_name": "Indust Robert Automation Retrofit",
+  "company": "Wilson-Butler",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Automation Retrofit",
+  "location": "North Robert, KY",
+  "location_type": "Factory Complex",
+  "project_value": 10444229,
+  "disciplines": [
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ISO 9001",
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

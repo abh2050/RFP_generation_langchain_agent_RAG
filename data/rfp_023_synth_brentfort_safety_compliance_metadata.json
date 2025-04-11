@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Brentfort Safety Compliance",
+  "company": "Anderson, Gonzalez and Oliver",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Safety Compliance",
+  "location": "Port Brentfort, WY",
+  "location_type": "Factory Complex",
+  "project_value": 9131721,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Process Engineering",
+    "Environmental Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,19 @@
+{
+  "project_name": "React Tannerside Modernization",
+  "company": "Anderson, Hartman and Hancock",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Modernization",
+  "location": "North Tannerside, GA",
+  "location_type": "Industrial Park",
+  "project_value": 5725161,
+  "disciplines": [
+    "Process Engineering",
+    "Environmental Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,20 @@
+{
+  "project_name": "Tech Smithchester Automation Retrofit",
+  "company": "Hayes Group",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Automation Retrofit",
+  "location": "Smithchester, SC",
+  "location_type": "Factory Complex",
+  "project_value": 16492800,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Industrial Automation",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations",
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Perezmouth Modernization",
+  "company": "Washington-Taylor",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Modernization",
+  "location": "Perezmouth, DC",
+  "location_type": "Factory Complex",
+  "project_value": 16405723,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Mechanical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

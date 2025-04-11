@@ -1,0 +1,19 @@
+{
+  "project_name": "Refine Stricklandchester Safety Compliance",
+  "company": "Murray-Lutz",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Safety Compliance",
+  "location": "Stricklandchester, AR",
+  "location_type": "Factory Complex",
+  "project_value": 3976178,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "API Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

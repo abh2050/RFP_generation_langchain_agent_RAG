@@ -1,0 +1,20 @@
+{
+  "project_name": "Petro Cathy Decommissioning",
+  "company": "Phillips and Sons",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Decommissioning",
+  "location": "West Cathy, IN",
+  "location_type": "Industrial Park",
+  "project_value": 6573602,
+  "disciplines": [
+    "Structural Engineering",
+    "Piping & Pipeline",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

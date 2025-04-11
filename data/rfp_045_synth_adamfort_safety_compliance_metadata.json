@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Adamfort Safety Compliance",
+  "company": "Banks PLC",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Safety Compliance",
+  "location": "Adamfort, CT",
+  "location_type": "Refinery Zone",
+  "project_value": 14697365,
+  "disciplines": [
+    "Environmental Engineering",
+    "Process Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "ISO 14001"
+  ],
+  "creation_date": "2025-04-09"
+}

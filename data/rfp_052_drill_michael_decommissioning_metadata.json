@@ -1,0 +1,18 @@
+{
+  "project_name": "Drill Michael Decommissioning",
+  "company": "Shah and Sons",
+  "industry": "Oil & Gas",
+  "complexity": 2,
+  "project_type": "Decommissioning",
+  "location": "South Michael, DC",
+  "location_type": "Refinery Zone",
+  "project_value": 4591007,
+  "disciplines": [
+    "Instrumentation & Controls",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "API Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

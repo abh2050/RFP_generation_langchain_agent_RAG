@@ -1,0 +1,19 @@
+{
+  "project_name": "Refine Janice Plant Expansion",
+  "company": "Bowman, Jones and Davis",
+  "industry": "Oil & Gas",
+  "complexity": 3,
+  "project_type": "Plant Expansion",
+  "location": "Lake Janice, KY",
+  "location_type": "Refinery Zone",
+  "project_value": 15552959,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "API Standards",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

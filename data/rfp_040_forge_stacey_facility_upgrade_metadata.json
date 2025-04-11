@@ -1,0 +1,20 @@
+{
+  "project_name": "Forge Stacey Facility Upgrade",
+  "company": "Wright Ltd",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Facility Upgrade",
+  "location": "Port Stacey, PR",
+  "location_type": "Refinery Zone",
+  "project_value": 9422557,
+  "disciplines": [
+    "Industrial Automation",
+    "Process Engineering",
+    "Electrical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

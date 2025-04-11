@@ -1,0 +1,19 @@
+{
+  "project_name": "Forge Patelhaven Emergency Response",
+  "company": "Nelson-Pruitt",
+  "industry": "Manufacturing",
+  "complexity": 3,
+  "project_type": "Emergency Response",
+  "location": "Patelhaven, WV",
+  "location_type": "Refinery Zone",
+  "project_value": 6035406,
+  "disciplines": [
+    "Electrical Engineering",
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

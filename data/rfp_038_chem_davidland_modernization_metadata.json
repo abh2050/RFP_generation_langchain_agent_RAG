@@ -1,0 +1,18 @@
+{
+  "project_name": "Chem Davidland Modernization",
+  "company": "Bennett PLC",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Modernization",
+  "location": "East Davidland, LA",
+  "location_type": "Industrial Park",
+  "project_value": 15286971,
+  "disciplines": [
+    "Environmental Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

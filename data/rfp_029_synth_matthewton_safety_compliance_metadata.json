@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Matthewton Safety Compliance",
+  "company": "Pearson PLC",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Safety Compliance",
+  "location": "Matthewton, ND",
+  "location_type": "Factory Complex",
+  "project_value": 4552942,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Environmental Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,18 @@
+{
+  "project_name": "Synth Kristenborough Safety Compliance",
+  "company": "Brown, Chambers and Lewis",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Safety Compliance",
+  "location": "New Kristenborough, MT",
+  "location_type": "Refinery Zone",
+  "project_value": 2915794,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

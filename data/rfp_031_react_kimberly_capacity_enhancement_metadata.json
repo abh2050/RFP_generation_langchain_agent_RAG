@@ -1,0 +1,19 @@
+{
+  "project_name": "React Kimberly Capacity Enhancement",
+  "company": "Chaney Ltd",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Capacity Enhancement",
+  "location": "New Kimberly, NC",
+  "location_type": "Factory Complex",
+  "project_value": 5732016,
+  "disciplines": [
+    "Mechanical Engineering",
+    "Piping & Pipeline",
+    "Environmental Engineering"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}
