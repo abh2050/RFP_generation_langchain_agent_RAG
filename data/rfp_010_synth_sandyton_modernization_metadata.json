@@ -1,0 +1,19 @@
+{
+  "project_name": "Synth Sandyton Modernization",
+  "company": "Ball-Johnson",
+  "industry": "Chemical Processing",
+  "complexity": 2,
+  "project_type": "Modernization",
+  "location": "Sandyton, DE",
+  "location_type": "Refinery Zone",
+  "project_value": 9240620,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Process Engineering",
+    "Environmental Engineering"
+  ],
+  "regulations": [
+    "ISO 14001"
+  ],
+  "creation_date": "2025-04-09"
+}

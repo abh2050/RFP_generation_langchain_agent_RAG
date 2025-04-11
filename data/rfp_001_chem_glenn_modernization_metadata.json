@@ -1,0 +1,20 @@
+{
+  "project_name": "Chem Glenn Modernization",
+  "company": "Banks-Franco",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Modernization",
+  "location": "East Glenn, RI",
+  "location_type": "Factory Complex",
+  "project_value": 9976630,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Environmental Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ISO 14001",
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

@@ -1,0 +1,18 @@
+{
+  "project_name": "Synth Patrick Capacity Enhancement",
+  "company": "Thomas-Walker",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Capacity Enhancement",
+  "location": "East Patrick, TN",
+  "location_type": "Refinery Zone",
+  "project_value": 7572417,
+  "disciplines": [
+    "Environmental Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "NFPA Codes"
+  ],
+  "creation_date": "2025-04-09"
+}

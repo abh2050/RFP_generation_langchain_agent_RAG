@@ -1,0 +1,18 @@
+{
+  "project_name": "Forge Ashlee Automation Retrofit",
+  "company": "Morris, Pope and Brock",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Automation Retrofit",
+  "location": "New Ashlee, WA",
+  "location_type": "Refinery Zone",
+  "project_value": 2210360,
+  "disciplines": [
+    "Industrial Automation",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

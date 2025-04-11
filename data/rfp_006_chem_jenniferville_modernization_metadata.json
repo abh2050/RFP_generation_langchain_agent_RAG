@@ -1,0 +1,19 @@
+{
+  "project_name": "Chem Jenniferville Modernization",
+  "company": "Mcneil, Thomas and Morris",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Modernization",
+  "location": "Jenniferville, HI",
+  "location_type": "Factory Complex",
+  "project_value": 9439118,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Environmental Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

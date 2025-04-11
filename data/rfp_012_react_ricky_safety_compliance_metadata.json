@@ -1,0 +1,18 @@
+{
+  "project_name": "React Ricky Safety Compliance",
+  "company": "Hale-Freeman",
+  "industry": "Chemical Processing",
+  "complexity": 3,
+  "project_type": "Safety Compliance",
+  "location": "Port Ricky, NV",
+  "location_type": "Industrial Park",
+  "project_value": 5554361,
+  "disciplines": [
+    "Process Engineering",
+    "Mechanical Engineering"
+  ],
+  "regulations": [
+    "ISO 14001"
+  ],
+  "creation_date": "2025-04-09"
+}

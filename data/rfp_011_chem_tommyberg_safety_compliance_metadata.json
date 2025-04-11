@@ -1,0 +1,20 @@
+{
+  "project_name": "Chem Tommyberg Safety Compliance",
+  "company": "Nguyen, Velazquez and Bell",
+  "industry": "Chemical Processing",
+  "complexity": 1,
+  "project_type": "Safety Compliance",
+  "location": "West Tommyberg, OR",
+  "location_type": "Industrial Park",
+  "project_value": 1158251,
+  "disciplines": [
+    "Environmental Engineering",
+    "Piping & Pipeline",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "NFPA Codes",
+    "EPA Requirements"
+  ],
+  "creation_date": "2025-04-09"
+}

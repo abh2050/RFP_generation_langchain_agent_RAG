@@ -1,0 +1,19 @@
+{
+  "project_name": "Indust Richardsonview Facility Upgrade",
+  "company": "Jackson LLC",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Facility Upgrade",
+  "location": "Richardsonview, DC",
+  "location_type": "Factory Complex",
+  "project_value": 8701408,
+  "disciplines": [
+    "Industrial Automation",
+    "Electrical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards",
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

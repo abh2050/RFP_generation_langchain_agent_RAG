@@ -1,0 +1,20 @@
+{
+  "project_name": "Forge Ethanland Emergency Response",
+  "company": "Ingram and Sons",
+  "industry": "Manufacturing",
+  "complexity": 2,
+  "project_type": "Emergency Response",
+  "location": "North Ethanland, OH",
+  "location_type": "Industrial Park",
+  "project_value": 1825215,
+  "disciplines": [
+    "Process Engineering",
+    "Mechanical Engineering",
+    "Electrical Engineering"
+  ],
+  "regulations": [
+    "ASME Standards",
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}

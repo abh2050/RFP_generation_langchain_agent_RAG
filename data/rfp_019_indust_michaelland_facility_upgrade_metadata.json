@@ -1,0 +1,18 @@
+{
+  "project_name": "Indust Michaelland Facility Upgrade",
+  "company": "Richards-Williams",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Facility Upgrade",
+  "location": "Michaelland, DE",
+  "location_type": "Industrial Park",
+  "project_value": 5368533,
+  "disciplines": [
+    "Electrical Engineering",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

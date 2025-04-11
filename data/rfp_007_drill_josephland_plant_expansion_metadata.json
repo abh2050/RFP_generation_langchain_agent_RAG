@@ -1,0 +1,20 @@
+{
+  "project_name": "Drill Josephland Plant Expansion",
+  "company": "Burke-Sanchez",
+  "industry": "Oil & Gas",
+  "complexity": 3,
+  "project_type": "Plant Expansion",
+  "location": "Josephland, MP",
+  "location_type": "Factory Complex",
+  "project_value": 10607128,
+  "disciplines": [
+    "Structural Engineering",
+    "Process Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "API Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

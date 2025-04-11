@@ -1,0 +1,19 @@
+{
+  "project_name": "Refine Christopherside Safety Compliance",
+  "company": "Gonzalez, Campbell and Vargas",
+  "industry": "Oil & Gas",
+  "complexity": 2,
+  "project_type": "Safety Compliance",
+  "location": "Christopherside, AR",
+  "location_type": "Industrial Park",
+  "project_value": 8864914,
+  "disciplines": [
+    "Process Engineering",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

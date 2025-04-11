@@ -1,0 +1,19 @@
+{
+  "project_name": "Refine Mariah Decommissioning",
+  "company": "Walker-Figueroa",
+  "industry": "Oil & Gas",
+  "complexity": 1,
+  "project_type": "Decommissioning",
+  "location": "East Mariah, RI",
+  "location_type": "Refinery Zone",
+  "project_value": 1747187,
+  "disciplines": [
+    "Process Engineering",
+    "Piping & Pipeline"
+  ],
+  "regulations": [
+    "EPA Requirements",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

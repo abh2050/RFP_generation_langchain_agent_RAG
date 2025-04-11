@@ -1,0 +1,19 @@
+{
+  "project_name": "Drill Hicksbury Decommissioning",
+  "company": "Jimenez LLC",
+  "industry": "Oil & Gas",
+  "complexity": 3,
+  "project_type": "Decommissioning",
+  "location": "Hicksbury, OK",
+  "location_type": "Refinery Zone",
+  "project_value": 15640606,
+  "disciplines": [
+    "Piping & Pipeline",
+    "Instrumentation & Controls"
+  ],
+  "regulations": [
+    "API Standards",
+    "OSHA Regulations"
+  ],
+  "creation_date": "2025-04-09"
+}

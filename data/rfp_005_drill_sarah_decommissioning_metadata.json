@@ -1,0 +1,19 @@
+{
+  "project_name": "Drill Sarah Decommissioning",
+  "company": "Mccarthy and Sons",
+  "industry": "Oil & Gas",
+  "complexity": 2,
+  "project_type": "Decommissioning",
+  "location": "East Sarah, NV",
+  "location_type": "Industrial Park",
+  "project_value": 3857357,
+  "disciplines": [
+    "Structural Engineering",
+    "Piping & Pipeline",
+    "Process Engineering"
+  ],
+  "regulations": [
+    "API Standards"
+  ],
+  "creation_date": "2025-04-09"
+}

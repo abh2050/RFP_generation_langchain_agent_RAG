@@ -1,0 +1,20 @@
+{
+  "project_name": "Forge Taylorport Facility Upgrade",
+  "company": "Franklin and Sons",
+  "industry": "Manufacturing",
+  "complexity": 1,
+  "project_type": "Facility Upgrade",
+  "location": "Taylorport, VA",
+  "location_type": "Refinery Zone",
+  "project_value": 7947433,
+  "disciplines": [
+    "Electrical Engineering",
+    "Process Engineering",
+    "Industrial Automation"
+  ],
+  "regulations": [
+    "ASME Standards",
+    "ISO 9001"
+  ],
+  "creation_date": "2025-04-09"
+}
