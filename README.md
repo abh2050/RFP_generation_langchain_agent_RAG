@@ -70,6 +70,8 @@ A Streamlit-based web application for generating professional Request for Inform
   - `page_number` (Int): The page number of the chunk.
   - `chunk_index` (Int): The index of the chunk within the document.
   - `location` (Text): Optional, not used in the provided code but present in the schema.
+## Architecture
+![](https://github.com/abh2050/RFP_generation_langchain_agent_RAG/blob/main/Editor%20_%20Mermaid%20Chart-2025-06-20-214638.png)
 
 ## Usage
 
